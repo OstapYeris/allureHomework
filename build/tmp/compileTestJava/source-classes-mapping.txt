@@ -1,0 +1,6 @@
+base/SelenideBase.java
+ base.SelenideBase
+googleTests/searchTests.java
+ googleTests.searchTests
+saucedemoTests/sauceDemoTests.java
+ saucedemoTests.sauceDemoTests
